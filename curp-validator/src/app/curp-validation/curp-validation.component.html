@@ -1,0 +1,59 @@
+<div class="container my-4">
+    <div class="col">
+      <h1>{{title}}</h1>
+    </div>
+    <br><br>
+    <form class="form-group row">
+      <div class="form-group col-md-3 my-1">
+        <label for="txt-nombre">CURP</label>
+        <input type="text" class="form-control" name="curp" id="txt-curp" [(ngModel)]="curp">
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <label for="txt-nombre">Nombres</label>
+        <input type="text" class="form-control" name="nombre" id="txt-nombre" [(ngModel)]="nombres">
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <label for="txt-apellido">Apellido paterno</label>
+        <input type="text" class="form-control" name="apellido-pat" id="txt-apellido-pat" [(ngModel)]="apellidoPaterno">
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <label for="txt-apellido">Apellido materno</label>
+        <input type="text" class="form-control" name="apellido-mat" id="txt-apellido-mat" [(ngModel)]="apellidoMaterno">
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <label for="txt-cargo">Fecha de nacimiento (yyyy-MM-dd)</label>
+        <input type="text" class="form-control" name="date" id="txt-date" [(ngModel)]="fechaNacimiento">
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <div class="form-check">
+            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios1" value="option1" (click)="setMasculino()" checked>
+            <label class="form-check-label" for="exampleRadios1">
+              Masculino
+            </label>
+          </div>
+          <div class="form-check">
+            <input class="form-check-input" type="radio" name="exampleRadios" id="exampleRadios2" value="option2" (click)="setFemenino()">
+            <label class="form-check-label" for="exampleRadios2">
+              Femenino
+            </label>
+          </div>
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <input type="checkbox" class="form-check-input" id="chck-mx" (click)="setEsMexicano()" checked>
+        <label class="form-check-label" for="chck-mx">Es mexicano</label>
+      </div>
+      <div class="form-group col-md-3 my-1">
+        <label for="txt-salario">Entidad federativa</label>
+        <input type="text" class="form-control" name="entidad" id="txt-entidad" [(ngModel)]="entidadFederativa">
+      </div>
+      <div class="col my-1">
+        <button type="submit" class="btn btn-primary my-3" (click)="validate()">Validar</button>
+      </div> 
+    </form>
+
+    <h3>Errores</h3>
+    <ul>
+        <li *ngFor="let error of errores;let i = index">{{error}}</li>
+    </ul>
+</div>
+

@@ -1,0 +1,15 @@
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\bin\Debug\net8.0\Aplicacion.deps.json
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\bin\Debug\net8.0\Aplicacion.dll
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\bin\Debug\net8.0\Aplicacion.pdb
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\bin\Debug\net8.0\Dominio.dll
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\bin\Debug\net8.0\Dominio.pdb
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.AssemblyReference.cache
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfoInputs.cache
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.AssemblyInfo.cs
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.csproj.CopyComplete
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.dll
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\refint\Aplicacion.dll
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\Aplicacion.pdb
+C:\Users\jedua\Documents\Proyectos\QualisTech\WebApi\Aplicacion\obj\Debug\net8.0\ref\Aplicacion.dll

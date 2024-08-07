@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aii7UZo9j7le1/ei57UDboOtTQh9OipVgz6iXi639h68fMS+43FjFOK8zy6FNv0+2YdAP12o1Xqb0l+hIoNtzw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jedua\\Documents\\Proyectos\\QualisTech\\WebApi\\Dominio\\Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jedua\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\jedua\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\jedua\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
